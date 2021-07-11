@@ -1,0 +1,55 @@
+{
+  "name": "YBVideoCompressBot",
+  "description": "Telegram's best YB Video Compress Bot",
+  "logo": "https://telegra.ph/file/b687febf32e4d583fb1d4.jpg",
+  "keywords": [
+    "telegram",
+    "best",
+    "video",
+    "compress",
+    "bot"
+  ],
+  "success_url": "https://t.me/YogeshBots",
+  "website": "https://t.me/YogeshBots",
+  "repository": "https://github.com/CyberBoyAyush/VideoCompress",
+  "env": {
+    "ENV": {
+      "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
+      "value": "ANYTHING"
+    },
+    "TG_BOT_TOKEN": {
+      "description": "Your bot token, as a string. Get this from @BotFather",
+      "value": "",
+      "required": true
+    },
+    "APP_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": "",
+      "required": true
+    },
+    "AUTH_USERS": {
+      "description": "Allow only pre-defined users to use this bot as Sudo User. Separate with Space. Just for using Admin Commands.",
+      "value": "1256157065 ",
+      "required": false
+    },
+    "FINISHED_PROGRESS_STR": {
+      "description": "Should be a single character.",
+      "required": false
+    },
+    "UN_FINISHED_PROGRESS_STR": {
+      "description": "Should be a single character.",
+      "required": false
+    },
+    "BOT_USERNAME": {
+      "description": "Your Bot Username. Without `@` before Username!",
+      "value": "",
+      "required": true
+    }
+  },
+  "stack": "container"
+}

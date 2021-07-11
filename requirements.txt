@@ -1,0 +1,6 @@
+aiohttp
+Pillow
+psutil
+hachoir
+tgcrypto
+pyrogram
