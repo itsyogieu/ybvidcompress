@@ -23,7 +23,7 @@ A Telegram YB Video Compressor Bot By **This bot works for all!** No need to def
 
 ## Follow on:
 <p align="left">
-<a href="https://telegram.me/YogeshBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-itsyogieu%20Bots-darkblue?logo=telegram"></a>
+<a href="https://telegram.me/YogeshBots"><img src="https://img.shields.io/badge/Join%20Our%20Channel-YogeshBots%20Bots-darkblue?logo=telegram"></a>
 </p>
 <p align="left">
 <a href="https://github.com/itsyogieu"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
