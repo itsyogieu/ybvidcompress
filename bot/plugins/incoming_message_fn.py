@@ -49,7 +49,7 @@ async def incoming_start_message_f(bot, update):
         reply_markup=InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Join Channel', url='https://t.me/YogeshBots')
+                    InlineKeyboardButton('Updates Channel', url='https://t.me/YogeshBots')
                 ],
                 [
                     InlineKeyboardButton('Subscribe', url='https://bit.ly/3y3Ej6u')
