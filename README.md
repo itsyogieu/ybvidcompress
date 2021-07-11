@@ -32,7 +32,7 @@ A Telegram YB Video Compressor Bot By **This bot works for all!** No need to def
 <a href="https://bit.ly/3y3Ej6u"><img src="https://img.shields.io/badge/youtube-subscribe%20on%20youtube-informational.svg?logo=youtube"></a>
 </p>
 <p align="left">
-<a href="https://bit.ly/3gwsct3"><img src="https://img.shields.io/badge/Instagram-itsyogieu-magenta?logo=instagram"></a>
+<a href="https://bit.ly/3gwsct3"><img src="https://img.shields.io/badge/Instagram-Yogesh R-magenta?logo=instagram"></a>
 </p>
 
 ## Donate:
