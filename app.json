@@ -1,7 +1,7 @@
 {
   "name": "YBVideoCompressBot",
   "description": "Telegram's best YB Video Compress Bot",
-  "logo": "https://telegra.ph/file/b687febf32e4d583fb1d4.jpg",
+  "logo": "https://telegra.ph/file/691bd900739569e257d13.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -11,7 +11,7 @@
   ],
   "success_url": "https://t.me/YogeshBots",
   "website": "https://t.me/YogeshBots",
-  "repository": "https://github.com/CyberBoyAyush/VideoCompress",
+  "repository": "https://github.com/itsyogieu/ybvidcompress",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
